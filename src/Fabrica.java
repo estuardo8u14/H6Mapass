@@ -9,7 +9,7 @@ import java.util.TreeMap;
 
 /**
  * Fabrica tipo de implementacion
- * @author Oliver Mazariegos 16043
+ * @author Estuardo Ureta
  */
 
 public class Fabrica{
